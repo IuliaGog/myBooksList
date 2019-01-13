@@ -1,0 +1,26 @@
+# dependencies
+/my-books-list-api/node_modules
+/my-books-list-api/.DS_Store
+/my-books-list-react/node_modules
+/my-books-list-react/.pnp
+/my-books-list-react/.pnp.js
+
+# testing
+/my-books-list-react/coverage
+
+# production
+/my-books-list-react/build
+
+# misc
+/my-books-list-react/.DS_Store
+/my-books-list-react/.env.local
+/my-books-list-react/.env.development.local
+/my-books-list-react/.env.test.local
+/my-books-list-react/.env.production.local
+
+/my-books-list-react/npm-debug.log*
+/my-books-list-react/yarn-debug.log*
+/my-books-list-react/yarn-error.log*
+/my-books-list-react/yarn.lock
+/my-books-list-react/package-lock.json
+/my-books-list-api/yarn.lock
