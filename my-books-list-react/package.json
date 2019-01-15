@@ -34,6 +34,13 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-config-prettier": "^3.4.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.3",
+    "prettier": "^1.15.3",
     "redux-devtools-extension": "^2.13.7"
   },
   "proxy": "http://localhost:8080"
